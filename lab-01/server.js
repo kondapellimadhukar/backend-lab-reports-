@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 app.get("/about", (req, res) => {
   res.status(200).json({
     name: "Kondapelli Madhukar",
-    section: "YOUR_SECTION"
+    section: "CSE GEN AI-2A"
   });
 });
 
