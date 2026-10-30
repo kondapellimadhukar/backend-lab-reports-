@@ -6,7 +6,7 @@
 - Section: YOUR_SECTION
 
 ## Live Link
-Not deployed yet. Add your public deployment URL here after deployment.
+https://backend-lab-reports-y5wc.onrender.com
 
 ## Objective
 To create a web server using Node.js and Express.js and implement GET routes with appropriate HTTP status codes.
