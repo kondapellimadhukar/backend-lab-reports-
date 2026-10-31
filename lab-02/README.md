@@ -2,8 +2,8 @@
 
 ## Student Details
 - Name: Kondapelli Madhukar
-- Registration Number: YOUR_REGISTRATION_NUMBER
-- Section: YOUR_SECTION
+- Registration Number: 252U1R9071
+- Section: CSE GEN-AI 2A 304 
 
 ## Live Link
 https://backend-lab-reports-2.onrender.com
