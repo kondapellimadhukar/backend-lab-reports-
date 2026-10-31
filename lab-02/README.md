@@ -6,7 +6,7 @@
 - Section: YOUR_SECTION
 
 ## Live Link
-Not deployed yet. Add your public deployment URL after deployment. If deployment is not possible, explain why and include Postman screenshots for every endpoint.
+https://backend-lab-reports-2.onrender.com
 
 ## Objective
 Connect an Express server to a SQLite database and expose CRUD operations over HTTP.
